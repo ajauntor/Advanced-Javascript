@@ -2,6 +2,7 @@
 //0
 //""
 //NaN
+//null
 
 const age = 2;
 
