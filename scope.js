@@ -14,4 +14,4 @@ function sum (first, second){
 }
 
 const output = sum(10, 27);
-// console.log(output);
+console.log(output);
