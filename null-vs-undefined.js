@@ -1,7 +1,7 @@
 // Here is some Example to get output undefined..........
 
-// let fruit;
-// console.log(fruit);
+let fruit;
+console.log(fruit);
 
 // function add(number1, number2){
 //  console.log(number1 + number2);
