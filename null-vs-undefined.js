@@ -3,8 +3,8 @@
 let fruit;
 console.log(fruit);
 
-// function add(number1, number2){
-//  console.log(number1 + number2);
+function add(number1, number2){
+ console.log(number1 + number2);
 //     }
 // const result = add(13, 55);
 // console.log(result);
