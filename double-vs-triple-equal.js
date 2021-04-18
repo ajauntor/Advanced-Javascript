@@ -47,8 +47,3 @@ if (first === second){
 else{
     console.log("This is false condition");
 }
-
-
-//............................................//
-const first = 1;
-const second = true;
