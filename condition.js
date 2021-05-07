@@ -4,11 +4,11 @@
 //NaN
 //null
 
-const age = 50;
+// const age = 50;
 
-if (age) {
-    console.log("Condition is true");
-}
-else {
-    console.log("Condition is false");
-}
+// if (age) {
+//     console.log("Condition is true");
+// }
+// else {
+//     console.log("Condition is false");
+// }
