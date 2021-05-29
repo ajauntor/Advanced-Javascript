@@ -12,7 +12,7 @@
 // const student = { Name: "Loe Rock", Phone: +477154 };
 // console.log(student.MonthlySalary);
 
-// const fun = undefined;
+const fun = undefined;
 console.log(fun);
 
 
