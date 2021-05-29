@@ -1,6 +1,6 @@
 // Here is some Example to get output undefined..........
 
-// let fruit;
+let fruit;
 console.log(fruit);
 
 function add(number1, number2){
