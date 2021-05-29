@@ -7,7 +7,7 @@
 //  console.log(number1 + number2);
 //     }
 // const result = add(13, 55);
-// console.log(result);
+console.log(result);
 
 const student = { Name: "Loe Rock", Phone: +477154 };
 console.log(student.MonthlySalary);
