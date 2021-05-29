@@ -13,7 +13,7 @@
 // console.log(student.MonthlySalary);
 
 // const fun = undefined;
-// console.log(fun);
+console.log(fun);
 
 
 
