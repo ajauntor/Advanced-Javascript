@@ -4,7 +4,7 @@
 //NaN
 //null
 
-// const age = 50;
+const age = 50;
 
 // if (age) {
 //     console.log("Condition is true");
