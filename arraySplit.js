@@ -12,7 +12,7 @@ const remove = numbers.splice(2, 6,);
 // console.log(remove);
 // console.log(numbers);
 
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const part = numbers.slice(4, 8);
-console.log(part);
-console.log(numbers);
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const part = numbers.slice(4, 8);
+// console.log(part);
+// console.log(numbers);
