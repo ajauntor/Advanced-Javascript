@@ -10,5 +10,5 @@ function stopWatch(){
 const clockOne = stopWatch();
 console.log(clockOne());
 console.log(clockOne());
-// console.log(clockOne());
-// console.log(clockOne());
+console.log(clockOne());
+console.log(clockOne());
