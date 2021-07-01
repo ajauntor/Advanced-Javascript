@@ -28,15 +28,15 @@ else{
     console.log("This is false condition");
 }
 
-// //............................................//
-// const first = 5;
-// const second = "5";
-// if (first === second){
-//     console.log("This is true condition");
-// }
-// else{
-//     console.log("This is false condition");
-// }
+//............................................//
+const first = 5;
+const second = "5";
+if (first === second){
+    console.log("This is true condition");
+}
+else{
+    console.log("This is false condition");
+}
 
 // //............................................//
 // const first = 1;
