@@ -18,15 +18,15 @@ else{
 }
 
 
-// // This is false Condition with triple equal...................!
-// const first = 5;
-// const second = 10;
-// if (first === second){
-//     console.log("This is true condition");
-// }
-// else{
-//     console.log("This is false condition");
-// }
+// This is false Condition with triple equal...................!
+const first = 5;
+const second = 10;
+if (first === second){
+    console.log("This is true condition");
+}
+else{
+    console.log("This is false condition");
+}
 
 // //............................................//
 // const first = 5;
