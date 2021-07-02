@@ -7,7 +7,7 @@ console.log(numbers);
 
 // This is splice to split and remove array................!
 // This is splice to split and remove array................!
-const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-const remove = numbers.splice(2, 6,);
+// const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const remove = numbers.splice(2, 6,);
 // console.log(remove);
 // console.log(numbers);
