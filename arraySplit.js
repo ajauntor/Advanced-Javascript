@@ -10,5 +10,5 @@ const remove = numbers.splice(2, 6,);
 console.log(remove);
 console.log(numbers);
 
-console.log(remove);
-console.log(numbers);
+// console.log(remove);
+// console.log(numbers);
