@@ -13,8 +13,8 @@ console.log(clockOne());
 console.log(clockOne());
 console.log(clockOne());
 
-const clockTwo = stopWatch();
-console.log(clockTwo());
-console.log(clockTwo());
-console.log(clockOne());
-console.log(clockTwo());
+// const clockTwo = stopWatch();
+// console.log(clockTwo());
+// console.log(clockTwo());
+// console.log(clockOne());
+// console.log(clockTwo());
