@@ -1,5 +1,5 @@
 function stopWatch(){
-    // let count = 0;
+    let count = 0;
 
     return function(){
         count++;
